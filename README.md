@@ -1,6 +1,8 @@
 # Hi there 👋. I'm Martin, a Junior FullStack developer!!
 
+## A short bio
 - :pencil2: :mortar_board: :closed_book: Graduated from Universidad de los Andes in Bogota, Colombia
+- :construction_worker: Currenty working at Kin+Carta
 - :house_with_garden: Currently Located in Bogota
 - :computer: Knowledge in: 
   - :coffee: Java (SpringBoot + Hibernate)
