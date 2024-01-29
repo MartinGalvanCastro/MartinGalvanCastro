@@ -1,8 +1,9 @@
-# Hi there 👋. I'm Martin, a Junior FullStack developer!!
+# Hi there 👋. I'm Martin, a FullStack developer!!
 
 ## A short bio
 - :pencil2: :mortar_board: :closed_book: Graduated from Universidad de los Andes in Bogota, Colombia
-- :construction_worker: Currenty working at Kin+Carta
+- :pencil2: :closed_book: Currently doing my MS in Software Engineering at Univerdiad de los Andes
+- :construction_worker: Currenty working at OfferUp
 - :house_with_garden: Currently Located in Bogota
 - :computer: Knowledge in: 
   - :coffee: Java (SpringBoot + Hibernate)
